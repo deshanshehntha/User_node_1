@@ -1,0 +1,41 @@
+Create Listening on port 5000
+Logger initiated......
+recieved url
+http://34.195.47.226:4003
+This nodes ngrok connection tunnel url is |https://7a97f8b73f8d.ngrok.io
+User session generated1689bbbe-f120-4ff7-8de8-c23661c65d4f
+http://34.195.47.226:4003
+Saved
+Server connection met....Intializing connection
+callback data
+authenticated
+authenticated
+Connect to parent server node |
+1
+{ electionId: 'user1', password: 'user1' }
+{
+  token: 'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJfcHJpdmF0ZV9rZXkiOiJmOTc3NzM2MjMxNGE4OGJhMGQ3ZGY3MDFlZDZiZWJkMGEzNTc3YmUzM2JlZmU3MmJhYmM0MGMzOWRlNjVhYjFmIiwiX3B1YmxpY19rZXkiOiIwMjMwNzJjNTIwMzFiYTNhODcwNDRjMDhhZjU3MjY0ZWNmZjdjZTM1NGRjOTUyMWNkNWU3YWIzZjVjMTAxODc1OTciLCJqb2IiOiJEb2N0b3IiLCJleHAiOjE2MTI5Njk5NzZ9.iWd_Zzl569p-hHSmj88YR5WUjqY2pjPHYWxFia-M_o8'
+}
+XXXXXXXXXXXX CATEGORY BELONGS XXXXXXXXXXXXXX
+Doctor
+{
+  _private_key: 'f9777362314a88ba0d7df701ed6bebd0a3577be33befe72babc40c39de65ab1f',
+  _public_key: '023072c52031ba3a87044c08af57264ecff7ce354dc9521cd5e7ab3f5c10187597',
+  job: 'Doctor',
+  exp: 1612969976
+}
+getting the global string
+Doctor
+public key |023072c52031ba3a87044c08af57264ecff7ce354dc9521cd5e7ab3f5c10187597
+{
+  private_key: 'f9777362314a88ba0d7df701ed6bebd0a3577be33befe72babc40c39de65ab1f',
+  public_key: '023072c52031ba3a87044c08af57264ecff7ce354dc9521cd5e7ab3f5c10187597',
+  jwt_token: 'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJfcHJpdmF0ZV9rZXkiOiJmOTc3NzM2MjMxNGE4OGJhMGQ3ZGY3MDFlZDZiZWJkMGEzNTc3YmUzM2JlZmU3MmJhYmM0MGMzOWRlNjVhYjFmIiwiX3B1YmxpY19rZXkiOiIwMjMwNzJjNTIwMzFiYTNhODcwNDRjMDhhZjU3MjY0ZWNmZjdjZTM1NGRjOTUyMWNkNWU3YWIzZjVjMTAxODc1OTciLCJqb2IiOiJEb2N0b3IiLCJleHAiOjE2MTI5Njk5NzZ9.iWd_Zzl569p-hHSmj88YR5WUjqY2pjPHYWxFia-M_o8',
+  job: 'Doctor'
+}
+XXXXXXXXXXXXXXXXXtrue
+Connected Socket | IF_l25EuX8MENtB8AAAA
+Connected this nodes own client |
+SUCCESSFULLY_CONNECTED
+Disconnected Socket |IF_l25EuX8MENtB8AAAA
+Client data after deleted
